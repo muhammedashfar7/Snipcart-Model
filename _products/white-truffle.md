@@ -1,5 +1,5 @@
 ---
-id: white-truffle
+identifier: white-truffle
 name: White Truffle
 price: 800.00
 image: /dist/images/whitetruffle.jpg

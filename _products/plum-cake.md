@@ -1,5 +1,5 @@
 ---
-id: plum-cake
+identifier: plum-cake
 name: Plum Cake
 price: 600.00
 image: /dist/images/plum.jpg

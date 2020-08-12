@@ -41,6 +41,7 @@ productPage:
 collections:
   products:
     output: true
+    permalink: /products/:title/
 # Build settings
 plugins:
   - jekyll-feed

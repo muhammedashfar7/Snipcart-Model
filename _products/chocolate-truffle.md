@@ -1,5 +1,5 @@
 ---
-id: chocolate-truffle
+identifier: chocolate-truffle
 name: Chocolate Truffle
 price: 800.00
 image: /dist/images/chocolatetruffle.jpg

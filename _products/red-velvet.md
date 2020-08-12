@@ -1,5 +1,5 @@
 ---
-id: red-velvet
+identifier: red-velvet
 name: Red Velvet
 price: 700.00
 image: /dist/images/redvelvet.jpg

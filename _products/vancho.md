@@ -1,5 +1,5 @@
 ---
-id: vancho
+identifier: vancho
 name: Vancho
 price: 750.00
 image: /dist/images/vancho.jpg

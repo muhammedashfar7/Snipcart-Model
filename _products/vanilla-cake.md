@@ -1,5 +1,5 @@
 ---
-id: vanilla-cake
+identifier: vanilla-cake
 name: Vanilla Cake
 price: 500.00
 image: /dist/images/vanilla.jpg

@@ -355,7 +355,7 @@ button,
 input,
 select,
 textarea {
-	font-family: 'Sriracha', cursive;
+	font-family: 'Itim', cursive;
 }
 
 a {
@@ -383,7 +383,7 @@ h6,
 .h6 {
 	clear: both;
 	color: #182538;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Oleo Script', cursive;
 	font-weight: 600
 }
 
@@ -2213,9 +2213,9 @@ hr::after,
     color: #2c384a;
 }
 
-.whatsapp-order {
-    background: #0dcf34;
-    color: #fff;
+.snipcart-add-to-cart {
+    background: #ffffff;
+    color: #0b0b0b;
     width: 100%;
     display: inherit;
     text-align: center;
@@ -2223,9 +2223,34 @@ hr::after,
     padding: 5px;
     font-weight: 600;
     margin-top: 5px;
+    border: 1px solid transparent;
+    box-shadow: 0px 2px 5px 0px rgba(0,52,102,0.11) !important;
 }
+
+.snipcart-add-to-cart:hover {
+	box-shadow: inset 0px 2px 5px 0px rgba(0,52,102,0.11) !important;
+}
+
+.lights-off .snipcart-add-to-cart {
+    background: #182538;
+    color: #8595ae;
+    width: 100%;
+    display: inherit;
+    text-align: center;
+    border-radius: 7px;
+    padding: 5px;
+    font-weight: 600;
+    margin-top: 5px;
+    border: 1px solid transparent;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.33) !important;
+}
+
+.lights-off .snipcart-add-to-cart:hover {
+	box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.34) !important;
+}
+
 @media (min-width: 371px) {
-	.whatsapp-order {
+	.snipcart-add-to-cart {
 		font-size: 16px;
 		padding: 5px;
 	}
@@ -2234,7 +2259,7 @@ hr::after,
 	}
 }
 @media (max-width: 371px) {
-	.whatsapp-order {
+	.snipcart-add-to-cart {
 		font-size: 11px;
 		padding: 1px;
 		font-weight: 100;
@@ -2243,7 +2268,7 @@ hr::after,
 		font-size: 13px;
 	}
 }
-a.whatsapp-order {
+a.snipcart-add-to-cart {
     text-decoration: none;
 }
 

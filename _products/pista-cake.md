@@ -1,5 +1,5 @@
 ---
-id: pista-cake
+identifier: pista-cake
 name: Pista Cake
 price: 700.00
 image: /dist/images/pista.jpg

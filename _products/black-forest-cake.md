@@ -1,5 +1,5 @@
 ---
-id: blackforest-cake
+identifier: blackforest-cake
 name: Black Forest
 price: 600.00
 image: /dist/images/blackforest.png

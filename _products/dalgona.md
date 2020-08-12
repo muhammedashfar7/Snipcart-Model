@@ -1,5 +1,5 @@
 ---
-id: dalgona-cake
+identifier: dalgona-cake
 name: Dalgona Cake
 price: 800.00
 image: /dist/images/dalgona.jpg

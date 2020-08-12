@@ -1,5 +1,5 @@
 ---
-id: pineapple-cake
+identifier: pineapple-cake
 name: Pineapple Cake
 price: 700.00
 image: /dist/images/pineapple.webp

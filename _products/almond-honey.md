@@ -1,5 +1,5 @@
 ---
-id: almond-honey-cake
+identifier: almond-honey-cake
 name: Almond Honey Cake
 price: 900.00
 image: /dist/images/almondhoney.png

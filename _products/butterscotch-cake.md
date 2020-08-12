@@ -1,5 +1,5 @@
 ---
-id: butterscotch-cake
+identifier: butterscotch-cake
 name: Butterscotch Cake
 price: 800.00
 image: /dist/images/butterscotch.webp
